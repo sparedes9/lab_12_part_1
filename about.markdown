@@ -16,4 +16,4 @@ title: About
 1. create a page on giuhub
 1. use markdown to create a page
 
-![Emerald Island] http://images.wikia.com/sonic/images/8/8e/SA_Angel_Island_2.jpg
+![Emerald Island](http://images.wikia.com/sonic/images/8/8e/SA_Angel_Island_2.jpg)
