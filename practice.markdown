@@ -7,12 +7,12 @@ title: Practice
 	* One
 	* Two
 	* Three
-* __bold__ Bold
-* _italicized_ Italics
+* __Bold__
+* _Italics_
 
 ## Another Header!
 
-*[Coming To America](http://en.wikipedia.org/wiki/Coming_to_America)
-*[Cry Baby](http://en.wikipedia.org/wiki/Cry-Baby)
+* [Coming To America](http://en.wikipedia.org/wiki/Coming_to_America)
+* [Cry Baby](http://en.wikipedia.org/wiki/Cry-Baby)
 
 ![Aardvark](http://www.aardvark.co.uk/media/aardvark1.jpg)
